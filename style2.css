@@ -1,0 +1,16 @@
+*{
+    /* Essa box serve para resetar as cfgs do html */
+    margin: 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+.image{
+    
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+
+}
